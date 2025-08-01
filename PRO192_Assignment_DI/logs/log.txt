@@ -1,0 +1,4 @@
+Jul 21, 2025 4:35:49 PM util.LoggerUtil getLogger
+WARNING: testing!!
+Jul 21, 2025 4:35:49 PM service.DictionaryService init
+INFO: DictionaryService initialized!

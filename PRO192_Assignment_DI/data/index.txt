@@ -1,0 +1,16 @@
+finger,0,22,1
+play,22,5,1
+study,119,11,1
+candy,27,5,1
+cool,32,9,1
+smile,41,7,1
+eye,48,5,1
+mouse,53,7,1
+fan,60,11,1
+charger,71,10,1
+lamb,81,9,1
+cup of tea,130,11,1
+wood,90,4,1
+hello,94,9,1
+fun,103,3,1
+walk,111,8,1
